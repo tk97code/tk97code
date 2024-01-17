@@ -23,8 +23,8 @@ You can click the Preview link to take a look at your changes.
 --->
 
 ## Github Contributions
-![snake gif](https://github.com/tk97code/tk97code/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
-![snake gif](https://github.com/tk97code/tk97code/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+<!--![snake gif](https://github.com/tk97code/tk97code/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)-->
+![snake gif](https://github.com/tk97code/tk97code/blob/output/github-contribution-grid-snake.svg)
 <!--## Peliblogini (game blogs) -->
 <!--<div align="left"> 
   <a href="https://thaoonguyenn1811.wixsite.com/website/post/the-sim-build-your-home-dream?fbclid=IwAR37g50JztqIbrpjSwY_pIWYpWT8xMUmJ1I9E1I5bL-Ud3NHAjQtW0iYyVI"_blank">
