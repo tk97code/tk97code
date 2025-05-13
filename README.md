@@ -5,7 +5,7 @@
 </h1>
 
 - 👋 Hi, I’m Trung Kien
-- 👀 I’m a Fresher
+- 👀 I’m finding for intern
 - 🌱 I’m currently learning Java, C#
 - 💞️ Thank For Watching!
 - 📫 Contact me: z54360907@gmail.com
