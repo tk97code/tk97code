@@ -8,8 +8,7 @@
 - 👀 I’m finding for intern
 - 🌱 I’m currently learning Java, C#
 - 💞️ Thank For Watching!
-- 📫 Contact me: z54360907@gmail.com
-
+- 📫 Contact me: krisktan5436@gmail.com
 <!---<div align="left"> 
   <a href="https://www.linkedin.com/in/nguyen-le-a292331a6/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
